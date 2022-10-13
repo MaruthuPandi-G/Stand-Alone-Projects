@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="sampledbDataSet" targetNamespace="http://tempuri.org/sampledbDataSet.xsd" xmlns:mstns="http://tempuri.org/sampledbDataSet.xsd" xmlns="http://tempuri.org/sampledbDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="sampledbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="sampledbConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Employee_Management_System.Properties.Settings.GlobalReference.Default.sampledbConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="EmployeeTableAdapter" GeneratorDataComponentClassName="EmployeeTableAdapter" Name="Employee" UserDataComponentName="EmployeeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="sampledbConnectionString (Settings)" DbObjectName="sampledb.dbo.Employee" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Employee_Name, Employee_Ph_no, Employee_Department, Employee_Designation FROM dbo.Employee</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Employee_Name" DataSetColumn="Employee_Name" />
+              <Mapping SourceColumn="Employee_Ph_no" DataSetColumn="Employee_Ph_no" />
+              <Mapping SourceColumn="Employee_Department" DataSetColumn="Employee_Department" />
+              <Mapping SourceColumn="Employee_Designation" DataSetColumn="Employee_Designation" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="sampledbDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="sampledbDataSet" msprop:Generator_DataSetName="sampledbDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Employee" msprop:Generator_RowEvHandlerName="EmployeeRowChangeEventHandler" msprop:Generator_RowDeletedName="EmployeeRowDeleted" msprop:Generator_RowDeletingName="EmployeeRowDeleting" msprop:Generator_RowEvArgName="EmployeeRowChangeEvent" msprop:Generator_TablePropName="Employee" msprop:Generator_RowChangedName="EmployeeRowChanged" msprop:Generator_RowChangingName="EmployeeRowChanging" msprop:Generator_TableClassName="EmployeeDataTable" msprop:Generator_RowClassName="EmployeeRow" msprop:Generator_TableVarName="tableEmployee" msprop:Generator_UserTableName="Employee">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Employee_Name" msprop:Generator_ColumnPropNameInRow="Employee_Name" msprop:Generator_ColumnPropNameInTable="Employee_NameColumn" msprop:Generator_ColumnVarNameInTable="columnEmployee_Name" msprop:Generator_UserColumnName="Employee_Name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Employee_Ph_no" msprop:Generator_ColumnPropNameInRow="Employee_Ph_no" msprop:Generator_ColumnPropNameInTable="Employee_Ph_noColumn" msprop:Generator_ColumnVarNameInTable="columnEmployee_Ph_no" msprop:Generator_UserColumnName="Employee_Ph_no" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Employee_Department" msprop:Generator_ColumnPropNameInRow="Employee_Department" msprop:Generator_ColumnPropNameInTable="Employee_DepartmentColumn" msprop:Generator_ColumnVarNameInTable="columnEmployee_Department" msprop:Generator_UserColumnName="Employee_Department">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Employee_Designation" msprop:Generator_ColumnPropNameInRow="Employee_Designation" msprop:Generator_ColumnPropNameInTable="Employee_DesignationColumn" msprop:Generator_ColumnVarNameInTable="columnEmployee_Designation" msprop:Generator_UserColumnName="Employee_Designation">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,58 @@
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.em.resources
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Form1.resources
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.GenerateResource.cache
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.exe
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.pdb
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.LoginForm.resources
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.AdminPage.resources
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Crud.resources
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeePayment.resources
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeeLogin.resources
+C:\Users\ELCOT\source\repos\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeePage.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.AssemblyReference.cache
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.SuggestedBindingRedirects.cache
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.AdminPage.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.em.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeeLogin.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeePage.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Form1.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.LoginForm.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.GenerateResource.cache
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.CoreCompileInputs.cache
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.exe
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.pdb
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.AssemblyReference.cache
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.AdminPage.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeeDetails.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.em.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeeLogin.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeePage.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Form1.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.LoginForm.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.GenerateResource.cache
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.exe
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.pdb
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.CreateAdmin.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Payment.resources
+C:\Users\ELCOT\Desktop\dot net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.UpdateDelete.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.CreateAdmin.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.EmployeeDetails.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Payment.resources
+C:\tasks\.net\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.UpdateDelete.resources
